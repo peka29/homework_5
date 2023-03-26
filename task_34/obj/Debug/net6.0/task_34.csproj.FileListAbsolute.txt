@@ -1,0 +1,15 @@
+C:\Users\peka2\Desktop\homework_5\task_34\bin\Debug\net6.0\task_34.exe
+C:\Users\peka2\Desktop\homework_5\task_34\bin\Debug\net6.0\task_34.deps.json
+C:\Users\peka2\Desktop\homework_5\task_34\bin\Debug\net6.0\task_34.runtimeconfig.json
+C:\Users\peka2\Desktop\homework_5\task_34\bin\Debug\net6.0\task_34.dll
+C:\Users\peka2\Desktop\homework_5\task_34\bin\Debug\net6.0\task_34.pdb
+C:\Users\peka2\Desktop\homework_5\task_34\obj\Debug\net6.0\task_34.csproj.AssemblyReference.cache
+C:\Users\peka2\Desktop\homework_5\task_34\obj\Debug\net6.0\task_34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peka2\Desktop\homework_5\task_34\obj\Debug\net6.0\task_34.AssemblyInfoInputs.cache
+C:\Users\peka2\Desktop\homework_5\task_34\obj\Debug\net6.0\task_34.AssemblyInfo.cs
+C:\Users\peka2\Desktop\homework_5\task_34\obj\Debug\net6.0\task_34.csproj.CoreCompileInputs.cache
+C:\Users\peka2\Desktop\homework_5\task_34\obj\Debug\net6.0\task_34.dll
+C:\Users\peka2\Desktop\homework_5\task_34\obj\Debug\net6.0\refint\task_34.dll
+C:\Users\peka2\Desktop\homework_5\task_34\obj\Debug\net6.0\task_34.pdb
+C:\Users\peka2\Desktop\homework_5\task_34\obj\Debug\net6.0\task_34.genruntimeconfig.cache
+C:\Users\peka2\Desktop\homework_5\task_34\obj\Debug\net6.0\ref\task_34.dll
